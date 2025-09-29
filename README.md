@@ -12,7 +12,7 @@ _Made and Tested with **Unity 6000.1.8f1**_
 
 </div>
 
-<!-- ## Games (Itch.io Playable Links)
+## Games (Itch.io Playable Links)
 
 - [Obstacle Dodge](https://calippooo.itch.io/obstacle-dodge)
 
@@ -22,4 +22,4 @@ _Made and Tested with **Unity 6000.1.8f1**_
 
 *Obstacle Dodge Game*
 
---- -->
+---
