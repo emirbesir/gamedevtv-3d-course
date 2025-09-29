@@ -16,7 +16,11 @@ public class Scorer : MonoBehaviour
         if (collision.gameObject.tag != HIT_TAG)
         {
             hits++;
-            Debug.Log("Hits: " + hits);
         }
+    }
+
+    public int GetHitCount()
+    {
+        return hits;
     }
 }
